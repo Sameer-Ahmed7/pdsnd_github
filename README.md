@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+6-7-2020
 
 ### Project Title
-Replace the Project Title
+Git project (Introduction to data science using python)
 
 ### Description
-Describe what your project is about and what it does
+In this project we train how to use git
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+link :<a href="https://github.com/udacity/pdsnd_github">Credit goes to this link </a>
